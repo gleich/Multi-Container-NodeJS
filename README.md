@@ -1,4 +1,4 @@
-# Scaling-NodeJS
+# Multi-Container-NodeJS
 
 Having two containers communicate (NodeJS and Redis Server) with docker.
 
