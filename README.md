@@ -1,6 +1,6 @@
 # Multi-Container-NodeJS
 
-Having two containers communicate (NodeJS and Redis Server) with docker.
+Having two containers communicate (NodeJS and Redis Server) with docker. Docker compose will also restart any docker container that fails
 
 ## DISCLAIMER
 
